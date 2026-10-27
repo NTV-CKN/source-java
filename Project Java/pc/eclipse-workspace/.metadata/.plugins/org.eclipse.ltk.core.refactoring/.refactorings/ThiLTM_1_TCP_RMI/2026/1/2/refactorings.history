@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;server.StudentDao&apos; to &apos;ProductDao&apos;&#x0D;&#x0A;- Original project: &apos;ThiLTM_1_TCP_RMI&apos;&#x0D;&#x0A;- Original element: &apos;server.StudentDao&apos;&#x0D;&#x0A;- Renamed element: &apos;server.ProductDao&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;StudentDao&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;server{StudentDao.java[StudentDao" matchStrategy="1" name="ProductDao" qualified="false" references="true" similarDeclarations="false" stamp="1767597396384" textual="false" version="1.0"/>
+</session>

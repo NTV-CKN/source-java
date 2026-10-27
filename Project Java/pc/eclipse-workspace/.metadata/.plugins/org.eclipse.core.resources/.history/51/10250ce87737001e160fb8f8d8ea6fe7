@@ -1,0 +1,23 @@
+import java.util.Arrays;  
+
+public class vd6{
+    public static void main(String args[]) {
+        //Tạo và in mảng ban đầu
+        int[] src = {5, 2, 1, 4, 88};
+        System.out.println(Arrays.toString(src)); 
+        
+        //Sắp xếp mảng ban đầu theo thứ tự tăng dần
+        Arrays.sort(src);
+
+        /*Đảo ngược mảng đã sắp xếp tăng dần
+          và thu về mảng sắp xếp giảm dần*/
+        for (int f = 0, l = src.length - 1; f < l; f++, l--){
+            int temp = src[f];
+            src[f]  = src[l];
+            src[l] = temp;
+        }
+
+        //In kết quả mảng sau khi sắp xếp giảm dần
+        System.out.println(Arrays.toString(src)); 
+    }
+}

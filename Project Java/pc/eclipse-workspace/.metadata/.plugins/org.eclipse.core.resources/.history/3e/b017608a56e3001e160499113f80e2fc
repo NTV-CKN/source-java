@@ -1,0 +1,21 @@
+package Lession2_Excercises;
+
+import java.util.Scanner;
+
+import junit.framework.TestCase;
+
+public class Ex2_Test extends TestCase {
+public void testEx2() {
+	Scanner sc = new Scanner(System.in);
+	//a)
+	System.out.println("Nhap vao nam: ");
+	int year = sc.nextInt();//2005
+	assertEquals(Ex2.checkLeapYear(year), false);
+	//b)
+	System.out.println("Nhap thang: ");
+	int month = sc.nextInt();
+	System.out.println("Nhap nam: ");
+	int yearv2 = sc.nextInt();
+	Ex2.getDaysInMonth(month, yearv2);
+}
+}

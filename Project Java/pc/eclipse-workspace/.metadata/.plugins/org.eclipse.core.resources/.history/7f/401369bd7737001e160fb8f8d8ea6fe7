@@ -1,0 +1,16 @@
+package java_BT;
+
+import java.sql.Wrapper;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Scanner;
+
+public class vd6 {
+public static void main(String[] args) {
+int[] vu = new int[] {1, 3, 2, 5};
+int i = vu.length;
+System.out.println(i);
+
+}
+
+}

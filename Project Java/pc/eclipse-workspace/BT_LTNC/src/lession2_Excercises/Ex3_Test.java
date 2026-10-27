@@ -1,0 +1,9 @@
+package lession2_Excercises;
+
+import junit.framework.TestCase;
+
+public class Ex3_Test extends TestCase {
+public void testEx3() {
+	Ex3.findX();
+}
+}

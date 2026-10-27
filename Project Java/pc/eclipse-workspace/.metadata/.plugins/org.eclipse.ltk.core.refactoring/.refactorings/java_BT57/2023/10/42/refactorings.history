@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;java_BT57&apos; to &apos;BT_Private_TaiXiu/src/model&apos;&#x0D;&#x0A;- Original project: &apos;java_BT57&apos;&#x0D;&#x0A;- Destination element: &apos;BT_Private_TaiXiu/src/model&apos;&#x0D;&#x0A;- Original element: &apos;java_BT57/src/java_BT57&apos;" description="Copy package" destination="=BT_Private_TaiXiu/src&lt;model" element1="/src&lt;java_BT57" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1696945004794" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;java_BT91&apos; to &apos;java_BT91&amp;92&apos;" description="Rename resource &apos;java_BT91&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/java_BT91" name="java_BT91&amp;92" stamp="1698376088980" updateReferences="true"/>
+</session>

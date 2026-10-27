@@ -1,0 +1,22 @@
+package lession2_Excercises;
+
+import java.util.Scanner;
+
+public class Ex1 {
+public static void findMaxNumber() {
+	double max = 0;
+	Scanner sc = new Scanner(System.in);
+	System.out.print("Nhap so a = ");
+	double a = sc.nextDouble();
+	System.out.println("Nhap so b = ");
+	double b = sc.nextDouble();
+	max = a;
+	if(max <= b) {
+			max = b;
+			System.out.println("So lon nhat la: " + (max));
+	}else {
+			System.out.println("So lon nhat la: " + (max));
+	}
+	sc.close();
+}
+}

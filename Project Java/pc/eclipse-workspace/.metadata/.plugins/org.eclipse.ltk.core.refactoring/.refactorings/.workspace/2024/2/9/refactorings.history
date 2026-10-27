@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CTDL&apos; to &apos;CTDL_01&apos;" description="Rename resource &apos;CTDL&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CTDL" name="CTDL_01" stamp="1709225967127" updateReferences="true"/>
+</session>

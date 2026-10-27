@@ -1,0 +1,19 @@
+package java_BT;
+
+import java.util.Scanner;
+
+public class vd6 {
+public static void main(String[] args) {
+	Scanner vu = new Scanner(System.in);
+
+	int a =0 ;
+	
+while(true) {
+	System.out.println("cmmmmmmm");
+	a++;
+	if (a == 100000) {
+		break;
+	}
+}
+}
+}

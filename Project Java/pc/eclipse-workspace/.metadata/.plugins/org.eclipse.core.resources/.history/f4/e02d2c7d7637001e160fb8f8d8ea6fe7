@@ -1,0 +1,12 @@
+package java_BT;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class vd6 {
+public static void main(String[] args) {
+int[] vu = new int[] {2, 1, 4, 3};
+Arrays.sort(vu);
+System.out.println(Arrays.toString(vu));
+}
+}

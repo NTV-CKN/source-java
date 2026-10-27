@@ -1,0 +1,21 @@
+package java_BT;
+
+import java.util.Scanner;
+
+public class vd6 {
+public static void main(String[] args) {
+int[] vu = new int[] {2, 1, 4, 3};
+int max = 0;
+int min = 0;
+String sx = "";
+for (int i = 0; i < vu.length; i++) {
+	if(max < vu[i] ) {
+		max = vu[i];
+		sx =sx+ "  " + max;
+	}else {
+		sx = max + "  " +sx;
+	}
+}System.out.println("sap xep mang tang dan: "+sx);
+
+}
+}

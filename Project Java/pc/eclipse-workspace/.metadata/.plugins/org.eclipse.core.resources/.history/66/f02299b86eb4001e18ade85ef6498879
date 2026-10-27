@@ -1,0 +1,19 @@
+package Lession_Regex_2;
+
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class Main {
+public static void main(String[] args) {
+	Scanner sc = new Scanner(System.in);
+	Pattern p = Pattern.compile("");
+	Matcher m;
+	while(true) {
+		System.out.println("Nhap: ");
+		String str = sc.nextLine();
+		m = Pattern.matches(str, p);
+		if()
+	}
+}
+}
